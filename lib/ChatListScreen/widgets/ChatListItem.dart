@@ -7,7 +7,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:sqflite/sqflite.dart';
-import 'dart:math' as Math;
 
 class ChatListItem extends StatefulWidget {
   final ChatItem chatItem;

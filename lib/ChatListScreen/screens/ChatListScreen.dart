@@ -5,7 +5,6 @@ import 'package:lets_chat/ChatListScreen/widgets/ChatListItem.dart';
 import 'package:lets_chat/Database/models/ChatItem.dart';
 import 'package:lets_chat/Database/variables.dart';
 import 'package:velocity_x/velocity_x.dart';
-import 'package:animations/animations.dart';
 
 class ChatListScreen extends StatefulWidget {
   ChatListScreen({Key key}) : super(key: key);

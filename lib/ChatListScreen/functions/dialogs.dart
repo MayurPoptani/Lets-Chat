@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:lets_chat/main.dart';
 
 Future<String> addNewChatItemDialog(BuildContext context) async {
