@@ -1,10 +1,13 @@
 # lets_chat
 
-A new Flutter project.
+A Chat Application Demo App. With one way messaging, which stores msgs at local sqlite database.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+This is a submittion of task given by Vayuz Team as a part of interview process.
+Submitted By: Mayur D. Poptani
 
 A few resources to get you started if this is your first Flutter project:
 
